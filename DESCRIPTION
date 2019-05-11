@@ -1,0 +1,15 @@
+Package: TrackingParticles
+Type: Package
+Title: TrackingParticles: a Particle Filter for object tracking
+Version: 0.1.0
+Authors@R: person("Luis", "Damiano", email = "damiano.luis@gmail.com", role = c("aut", "cre", "cph"), comment = c(ORCID = "0000-0001-9107-0706"))
+Description: A Particle Filter implemented in C to estimate the position and velocity of a moving object tracked by passive sensors.
+License: GPL (>=3)
+Copyright: (c) 2019
+Encoding: UTF-8
+LazyData: true
+Depends:
+  R (>= 3.5.0)
+URL: https://github.com/luisdamiano/TrackingParticles/
+BugReports: https://github.com/luisdamiano/TrackingParticles/issues
+RoxygenNote: 6.1.1
