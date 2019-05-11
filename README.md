@@ -9,7 +9,7 @@ We introduce the bearing-only tracking problem for a moving vehicle. For this R 
 ### Install
 
 ```
-devtools::install_github("luisdamiano/BayesHMM")
+devtools::install_github("luisdamiano/TrackingParticles")
 ```
 
 ### Dataset
